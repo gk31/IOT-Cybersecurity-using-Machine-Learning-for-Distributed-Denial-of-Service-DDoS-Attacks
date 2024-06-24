@@ -1,5 +1,5 @@
 # IOT-Cybersecurity-using-Machine-Learning-for-Distributed-Denial-of-Service-DDoS-Attacks
-My research experience at Universidad de Panama where I focused on a implementing Classification Algorithms like Decision Trees, Logistic Regression, Random Forest to evaluate the IOT CICDDoS2019 dataset on DDOS attacks
+My research experience at Universidad de Panama where I focused on implementing Classification Algorithms like Decision Trees, Logistic Regression, and Random Forest to evaluate the IOT CICDDoS2019 dataset on DDOS attacks
 
 ## Project Overview
 
@@ -35,19 +35,19 @@ The primary goal of this project is to evaluate the effectiveness of machine lea
 ## Scripts Description
 
 ### `DDOS_data_preprocessing.ipynb`
-This script handles the preprocessing of the CICDDoS2019 dataset, including:
+This notebook handles the preprocessing of the CICDDoS2019 dataset, including:
 - Loading the dataset
 - Cleaning and transforming data
 - Handling missing values
 - Feature selection and extraction
 
-### `DDOS_LDAP_NETBIOS_CLASSIFIER.py`
-This script handles the training and evaluation of machine learning models, including:
+### `DDOS_LDAP_NETBIOS_CLASSIFIER.ipynb`
+This notbeook handles the training and evaluation of machine learning models, including:
 - Splitting the dataset into training and testing sets
 - Training Random Forest, Decision Tree, and Logistic Regression models
 - Evaluating model performance using accuracy, precision, recall, F1-score, and confusion matrix
 
-This script visualizes the results, including feature importance, confusion matrices, and performance metrics for each model.
+This notebook also visualizes the results, including feature importance, confusion matrices, and performance metrics for each model.
 
 ## Results
 
