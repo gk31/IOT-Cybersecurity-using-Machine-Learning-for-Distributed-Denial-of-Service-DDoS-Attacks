@@ -34,14 +34,14 @@ The primary goal of this project is to evaluate the effectiveness of machine lea
 
 ## Scripts Description
 
-### `data_preprocessing.py`
+### `DDOS_data_preprocessing.ipynb`
 This script handles the preprocessing of the CICDDoS2019 dataset, including:
 - Loading the dataset
 - Cleaning and transforming data
 - Handling missing values
 - Feature selection and extraction
 
-### `model_training.py`
+### `DDOS_LDAP_NETBIOS_CLASSIFIER.py`
 This script handles the training and evaluation of machine learning models, including:
 - Splitting the dataset into training and testing sets
 - Training Random Forest, Decision Tree, and Logistic Regression models
